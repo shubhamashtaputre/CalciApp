@@ -15,8 +15,13 @@ public class Calculator {
 	}
 	
 	public static int subtraction(int num1, int num2) {
+<<<<<<< HEAD
 		int d = num1*4-num2*4;
 		return d;
+=======
+		int c = num1*2-num2*2;
+		return c;
+>>>>>>> 873d6e8 (changing seb fun in dev branch)
 	}
 	
 	public static int division(int num1, int num2) {
