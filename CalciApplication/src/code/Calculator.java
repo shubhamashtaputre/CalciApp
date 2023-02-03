@@ -15,7 +15,8 @@ public class Calculator {
 	}
 	
 	public static int subtraction(int num1, int num2) {
-		return num1-num2;
+		int d = num1*4-num2*4;
+		return d;
 	}
 	
 	public static int division(int num1, int num2) {
